@@ -1,7 +1,5 @@
 # Cloud DevOps, Scaling Microservices
-
-The project's goal is to operationalize a machine learning microservice using kubernetes. The service serves out predictions (inference) about housing prices through API calls. The model has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on.
-
+The project's goal is to operationalize a machine learning microservice using kubernetes.
 
 ### Files explanation
 - config.yml: CircleCI configuration file for running the tests
